@@ -1,0 +1,11 @@
+speechbrain==0.5.15
+coqui-tts==0.25.0
+torch>=1.9.0
+torchaudio>=0.9.0
+soundfile>=0.12.1
+scipy>=1.10.1
+numpy>=1.21.0
+whisper-timestamped==1.14.1
+gTTS==2.3.2
+sounddevice==0.4.6
+gradio==4.12.0
